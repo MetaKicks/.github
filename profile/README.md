@@ -5,13 +5,13 @@ Virtual LG Styler ShoeCase with real-time price tracking
 > 
 Team members
 ---
-Kwon ji hyun, Department of Information System, nahoo0705@hanyang.ac.kr
+Kwon jihyun, Department of Information System, nahoo0705@hanyang.ac.kr
 
-Kim young hwan, Department of Information System, wizde20@hanyang.ac.kr
+Kim younghwan, Department of Information System, wizde20@hanyang.ac.kr
 
-Lee ji yun, Department of Information System, dlwldbs9764@naver.com
+Lee jiyun, Department of Information System, dlwldbs9764@naver.com
 
-Jung young ho, Department of Information System, zer0kola321@hanyang.ac.kr
+Jeong youngho, Department of Information System, zer0kola321@hanyang.ac.kr
 
 Proposal
 ---
