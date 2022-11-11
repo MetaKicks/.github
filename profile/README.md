@@ -11,7 +11,7 @@ Kim young hwan, Department of Information System, wizde20@hanyang.ac.kr
 
 Lee ji yun, Department of Information System, dlwldbs9764@naver.com
 
-Jung young ho, Department of Information System, zer0kola321@gmail.com
+Jung young ho, Department of Information System, zer0kola321@hanyang.ac.kr
 
 Proposal
 ---
