@@ -45,4 +45,4 @@ LG의 연구에 따르면 'SneakerHead'는 그들이 아끼는 신발을 더욱 
 
 Screenshot
 ---
-https://user-images.githubusercontent.com/96588971/202628368-4c2ef1db-d16d-4ae6-80fc-1763598d8cfd.png
+<img width="1440" alt="Screen Shot 2022-11-18 at 2 34 31 PM" src="https://user-images.githubusercontent.com/96588971/202628368-4c2ef1db-d16d-4ae6-80fc-1763598d8cfd.png">
