@@ -1,6 +1,5 @@
 # MetaKicks
 
-> MetaKicks
 Virtual LG Styler ShoeCase with real-time price tracking
 > 
 Team members
