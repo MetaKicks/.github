@@ -42,6 +42,6 @@ LG의 연구에 따르면 'SneakerHead'는 그들이 아끼는 신발을 더욱 
 - MetaKicks을 통해 사용자와 여러 사람의 신발 컬렉션을 공유할 수 있습니다.
 - 현실의 신발과 가상의 신발 NFT를 하나의 플랫폼에서 관리할 수 있습니다.
 
-Screenshot
----
-<img width="1440" alt="Screen Shot 2022-11-18 at 2 34 31 PM" src="https://user-images.githubusercontent.com/96588971/202628368-4c2ef1db-d16d-4ae6-80fc-1763598d8cfd.png">
+<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/96588971/205218986-702baf4f-93fa-47be-8074-d60c3e4c7055.png">
+
+<img width="1440" alt="Screenshot 2022-12-02 at 2 07 24 PM" src="https://user-images.githubusercontent.com/96588971/205219088-79145f15-b3eb-4192-aa93-ac0b8014eff4.png">
