@@ -12,13 +12,6 @@ Lee jiyun, Department of Information System, dlwldbs9764@naver.com
 
 Jeong youngho, Department of Information System, zer0kola321@hanyang.ac.kr
 
-Proposal
----
-<aside>
-As the culture of collecting expensive designer, luxury and limited-edition sneakers grows among the MZ generation – Millennials and Gen Z – LG’s internal research found that these ‘sneakerheads’ would benefit greatly from a solution that not only made their cherished shoes stand out more, but also provided them with the optimal care. and LG provides LG ThinQ applications to connect its home appliances and consumers and provide consumers with a better experience. So our team thought that it would be good to virtualize the ShoeCase and manage it on the ThinQ app. By storing nft sneakers in a MetaKicks, nft, which exists only virtually, is collected as if it were stored in a LG Styler ShoeCase. In addition, the limited edition of the shoe resell market has grown a lot, and we decided to create this service to check the resale market price of shoes in real time. Finally, we thought that the culture of collecting shoes could be further activated by taking out the shoe case that was only in my room on the web and creating a culture to share each other’s shoes collections.
-</aside>
-
-
 Notion
 ---
 <aside>
@@ -40,7 +33,6 @@ LG의 연구에 따르면 'SneakerHead'는 그들이 아끼는 신발을 더욱 
 
 - 사용자는 Metakicks를 통해 본인 ShoeCase의 실시간 리셀 가격을 확인할 수 있습니다.
 - MetaKicks을 통해 사용자와 여러 사람의 신발 컬렉션을 공유할 수 있습니다.
-- 현실의 신발과 가상의 신발 NFT를 하나의 플랫폼에서 관리할 수 있습니다.
 
 <img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/96588971/205218986-702baf4f-93fa-47be-8074-d60c3e4c7055.png">
 
