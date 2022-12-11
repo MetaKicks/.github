@@ -63,8 +63,7 @@ market price in real time using Kream or StockX’s API, Korea
 and USA’s leading sneakers trade site, and sharing each other’s
 collections through this service
 
-<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/96588971/205218986-702baf4f-93fa-47be-8074-d60c3e4c7055.png">
 
 <img width="1440" alt="Screenshot 2022-12-02 at 2 07 24 PM" src="https://user-images.githubusercontent.com/47352234/206887590-f2d8ea8f-feb9-4fbe-9e20-aafd93639bfd.png">
-![Untitled](https://user-images.githubusercontent.com/47352234/206887589-1b09e8fc-3c4e-4d7d-8f87-27688457c76b.png)
-![캡처17 PNG](https://user-images.githubusercontent.com/47352234/206887590-f2d8ea8f-feb9-4fbe-9e20-aafd93639bfd.png)
+<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/47352234/206887590-f2d8ea8f-feb9-4fbe-9e20-aafd93639bfd.png">
+
