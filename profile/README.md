@@ -15,7 +15,7 @@ Jeong youngho, Department of Information System, zer0kola321@hanyang.ac.kr
 Notion
 ---
 <aside>
-https://www.notion.so/Metakicks-c0cb99b6b47545e1862f2aefcabbd06e
+https://www.notion.so/bit.ly/3iTkugc
 </aside>
 
 ---
@@ -46,7 +46,7 @@ each other’s shoes collections.
 
 ---
 
-- Shoe cases so far are made of plastic and can only function
+Shoe cases so far are made of plastic and can only function
 as storage and display shoes. But The LG Styler ShoeCase
 creates the ideal environment for storing shoes by protecting
 against humidity and fabric-discoloring UV light, the Styler
@@ -63,6 +63,6 @@ market price in real time using Kream or StockX’s API, Korea
 and USA’s leading sneakers trade site, and sharing each other’s
 collections through this service
 
-<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/96588971/205218986-702baf4f-93fa-47be-8074-d60c3e4c7055.png">
+<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e7dd2876-3d24-4ac2-90d1-51f3ec24b70c/%EC%BA%A1%EC%B2%9817.png">
 
 <img width="1440" alt="Screenshot 2022-12-02 at 2 07 24 PM" src="https://user-images.githubusercontent.com/96588971/205219088-79145f15-b3eb-4192-aa93-ac0b8014eff4.png">
