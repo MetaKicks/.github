@@ -15,7 +15,7 @@ Jeong youngho, Department of Information System, zer0kola321@hanyang.ac.kr
 Notion
 ---
 <aside>
-https://www.notion.so/bit.ly/3iTkugc
+https://bit.ly/3iTkugc
 </aside>
 
 ---
