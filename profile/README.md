@@ -20,19 +20,48 @@ https://www.notion.so/Metakicks-c0cb99b6b47545e1862f2aefcabbd06e
 
 ---
 
-## *A. 선정배경*
-고가의 럭셔리 디자이너, 콜라보레이션 한정판 운동화를 수집하는 문화가 MZ세대에게 퍼져나가고 있습니다. 
-LG의 연구에 따르면 'SneakerHead'는 그들이 아끼는 신발을 더욱 돋보이게 할 뿐만 아니라 최적의 관리를 제공할 수 있는 솔루션의 필요성을 크게 느끼는 것으로 나타났습니다. 
-그에 맞춰 LG에서는 최적화된 신발 관리 뿐만 아니라 수집품으로써의 가치까지 올려주는 LG styler ShoeCase를 출시했습니다.
-하지만 한정판 신발의 경우 시간이 지남에 따라 또는 행사에 따라 가격이 크게 변동하며, 여러 신발을 소유한 수집가들은 한 번에 소장가치를 확인하기 어렵고 
-집까지 가지 않으면 본인과 다른 사람의 신발 컬렉션을 확인할 수 없다는 단점이 있어 이 프로젝트를 기획하게 되었습니다.
+## *A. abstract*
+As the culture of collecting expensive designer, luxury
+and limited-edition sneakers grows among the MZ generation –
+Millennials and Gen Z – LG’s internal research found that these
+‘sneakerheads’ would benefit greatly from a solution that not only
+made their cherished shoes stand out more, but also provided them
+with the optimal care. So LG has launched the LG Styler ShoeCase,
+which not only optimizes shoe management but also increases the
+value of collection and provides LG ThinQ applications to connect
+its home appliances and consumers and provide consumers with
+a better experience. So our team thought that it would be good
+to virtualize the ShoeCase and manage it on this project. NFT
+sneakers that exist only virtually are collected as if it were stored
+in a LG Styler ShoeCase with MetaKicks project. In addition, the
+limited edition of the shoe resell market has grown a lot, and we
+decided to create this service to check the resale market price of
+shoes in real time. Finally, we thought that the culture of collecting
+shoes could be further activated by taking out the shoe case that
+was only in my room on the web and creating a culture to share
+each other’s shoes collections.
 
-## *B. 주요 기능*
+
+## *B. motivation*
 
 ---
 
-- 사용자는 Metakicks를 통해 본인 ShoeCase의 실시간 리셀 가격을 확인할 수 있습니다.
-- MetaKicks을 통해 사용자와 여러 사람의 신발 컬렉션을 공유할 수 있습니다.
+- Shoe cases so far are made of plastic and can only function
+as storage and display shoes. But The LG Styler ShoeCase
+creates the ideal environment for storing shoes by protecting
+against humidity and fabric-discoloring UV light, the Styler
+ShoeCase represents a great way for shoe enthusiasts to showoff their favorite pairs, offering interior features such as a 360-
+degree rotating turntable to increase the value as a collection
+rather than just shoes. NFT shoes are stored online, and real
+shoes are stored only in the ShoeCase and managed separately.
+By using this, these two collections are managed by one app.
+We thought it would be good to share the collection, including
+NFT shoes, with various people to further boost the shoe
+collection culture. So we make this service by paying attention
+to the value of the collection. It check the fluctuating resell
+market price in real time using Kream or StockX’s API, Korea
+and USA’s leading sneakers trade site, and sharing each other’s
+collections through this service
 
 <img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/96588971/205218986-702baf4f-93fa-47be-8074-d60c3e4c7055.png">
 
