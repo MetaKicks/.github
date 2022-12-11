@@ -65,5 +65,5 @@ collections through this service
 
 
 <img width="1440" alt="Screenshot 2022-12-02 at 2 07 24 PM" src="https://user-images.githubusercontent.com/47352234/206887590-f2d8ea8f-feb9-4fbe-9e20-aafd93639bfd.png">
-<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/47352234/206887590-f2d8ea8f-feb9-4fbe-9e20-aafd93639bfd.png">
+<img width="1440" alt="Screenshot 2022-12-02 at 2 05 58 PM" src="https://user-images.githubusercontent.com/47352234/206887665-50c9e781-b82c-482b-b463-bb307af7071d.png">
 
